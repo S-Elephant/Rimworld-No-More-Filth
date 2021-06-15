@@ -1,0 +1,18 @@
+<ModMetaData>
+	<name>No More Filth</name>
+	<author>Squirting Elephant</author>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>SquirtingElephant.NoMoreFilth</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+	<description>Prevents all filth in the game, including those added by other mods.
+
+- This mod does NOT impact performance because it ONLY shortly performs work during game startup.
+- This mod doesn't remove existing filth that you may already have before adding this mod.
+- Note that firefoam is technically also filth which means that it kills the fire and the foam vanishes instantly afterwards.
+- Is safe to add/remove from/to an existing game.</description>
+</ModMetaData>
